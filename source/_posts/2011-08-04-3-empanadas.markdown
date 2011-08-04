@@ -1,0 +1,17 @@
+---
+layout: post
+title: "3.empanadas"
+date: 2011-08-04 11:10
+comments: true
+categories: 
+---
+```ruby
+	class Fixnum
+		def empanadas
+			puts "que miseria, che... que miseria"
+		end
+	end
+
+	puts 3.empanadas
+	=> que miseria, che... que miseria
+```
