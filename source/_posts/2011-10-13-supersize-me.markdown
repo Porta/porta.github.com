@@ -3,7 +3,7 @@ layout: post
 title: "Supersize Me"
 date: 2011-10-13 00:05
 comments: true
-categories: javascript
+categories: javascript, jquery
 ---
 Anda, digamos.
 
