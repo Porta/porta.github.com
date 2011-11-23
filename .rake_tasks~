@@ -1,0 +1,16 @@
+config_deploy[branch]
+deploy
+generate
+install[theme]
+integrate
+isolate[filename]
+list
+new_page[filename]
+new_post[title]
+preview
+push
+rsync
+set_root_dir[dir]
+update_source[theme]
+update_style[theme]
+watch

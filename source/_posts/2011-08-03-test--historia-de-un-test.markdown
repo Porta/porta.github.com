@@ -3,7 +3,7 @@ layout: post
 title: "Ejemplo de Factory Girl"
 date: 2011-08-03 13:53
 comments: true
-categories: 
+categories: ruby
 ---
 Ejemplo de Factory Girl
 
