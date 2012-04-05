@@ -9,7 +9,7 @@ No es que haya descubierto la pólvora...
 
 ```javascript
 	Array.prototype.to_sentence = function(){
-		var self = $.unique(this);
+		var self = this;
 		var out = "";
 		switch (self.length){
 		  case 0:
